@@ -1,0 +1,1 @@
+console.log('🧹 Limpando dados mock do localStorage...'); localStorage.removeItem('futuristic_users'); localStorage.removeItem('futuristic_posts'); localStorage.removeItem('futuristic_user'); console.log('✅ Dados mock removidos! Recarregue a página.');
