@@ -158,7 +158,7 @@ export default function WeeklyGoalsManager() {
     e.preventDefault();
     if (
       analyticsEmail === "yasmin@fradema.com.br" &&
-      analyticsPassword === "fda@2016"
+      analyticsPassword === "xxx@2016"
     ) {
       setIsAuthed(true);
       setError("");
